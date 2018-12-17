@@ -1,0 +1,44 @@
+h1 {
+    background-color: #4aaaa4;
+
+    color: #ffffff;
+
+    padding: 20px;
+
+    display: inline-block;
+
+    font-family: 'Georgia', Times, Times New Roman, serif;
+
+    margin-bottom: 0;
+
+}
+
+h2 {
+    color: #4aaaa4;
+
+    border-bottom: 2px solid #cccccc;
+
+    width: 100%;
+}
+
+
+.col-md-2 {
+    background-image: url(../Bootstrap-Porfolio/image/stripes.jpg);
+}
+
+
+.footer {
+
+    background-color: #666666;
+
+    color: white;
+
+    text-align: center;
+
+    bottom: 0;
+
+    height: 60px;
+
+    border-top: 8px solid #4aaaa5;
+
+}
